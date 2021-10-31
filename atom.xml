@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-10-31T12:39:40.089Z</updated>
+  <updated>2021-10-31T12:42:51.447Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux指令收集</title>
+    <link href="http://example.com/2021/10/31/Linux%E6%8C%87%E4%BB%A4%E6%94%B6%E9%9B%86/"/>
+    <id>http://example.com/2021/10/31/Linux%E6%8C%87%E4%BB%A4%E6%94%B6%E9%9B%86/</id>
+    <published>2021-10-31T12:42:27.000Z</published>
+    <updated>2021-10-31T12:42:51.447Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>关键字总结</title>
